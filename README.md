@@ -1,4 +1,5 @@
 **HELLO!** 👋
+
 Noob coder from Finland who is trying to do something. 😹
 
 - 🌱 I’m currently learning LUA and Javascript
