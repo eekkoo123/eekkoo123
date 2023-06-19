@@ -5,4 +5,4 @@ Noob coder from Finland who is trying to do something. 😹
 - 📜 Currently working on FiveM Scripts.
 
 **How to reach me?**
-You can reach me from Discord, I mainly use it. My Discord is eekoo#3660 or join Zeta (*dsc.gg/zeta23*)
+You can reach me from Discord, I mainly use it. My Discord is eekoo#3660 or join Zeta (*https://dsc.gg/zeta23*)
